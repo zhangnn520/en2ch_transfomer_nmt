@@ -1,0 +1,6 @@
+matplotlib==3.5.3
+numpy==1.21.6
+sacrebleu==1.4.14
+sentencepiece==0.1.94
+torch==1.12.1
+tqdm==4.64.1
